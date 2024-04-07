@@ -1,6 +1,6 @@
 # [Master Thesis, Giuseppe Paolini](https://github.com/10619082/Tesi-Giuseppe-Paolini/files/12575401/Executive_Summary_Finale.pdf)
 
-## Exectutive Summary
+## Executive Summary
 
 ![1](Images/Executive_Summary_Finale-1.jpg)
 ![2](Images/Executive_Summary_Finale-2.jpg)
